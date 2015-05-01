@@ -1,8 +1,9 @@
-package com.gionee.smartshot.ui.widget;
+package com.smartshot.ui.widget;
 
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.preference.SharedPreferenceUtils;
-import com.gionee.smartshot.ui.listener.ShotMenuListener;
+import com.smartshot.preference.SharedPreferenceUtils;
+import com.smartshot.ui.listener.ShotMenuListener;
+
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.LayoutInflater;

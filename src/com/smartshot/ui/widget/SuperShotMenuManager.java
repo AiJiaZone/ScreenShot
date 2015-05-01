@@ -1,9 +1,9 @@
-package com.gionee.smartshot.ui.widget;
+package com.smartshot.ui.widget;
 
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.preference.SharedPreferenceUtils;
-import com.gionee.smartshot.ui.SmartShotApp;
-import com.gionee.smartshot.utils.StringUtil;
+import com.smartshot.preference.SharedPreferenceUtils;
+import com.smartshot.ui.SmartShotApp;
+import com.smartshot.utils.StringUtil;
 
 import android.content.Context;
 import android.util.DisplayMetrics;

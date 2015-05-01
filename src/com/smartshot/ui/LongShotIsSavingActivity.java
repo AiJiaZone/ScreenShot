@@ -1,4 +1,4 @@
-package com.gionee.smartshot.ui;
+package com.smartshot.ui;
 
 import com.gionee.smartshot.R;
 

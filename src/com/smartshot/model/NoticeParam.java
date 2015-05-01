@@ -1,4 +1,4 @@
-package com.gionee.smartshot.model;
+package com.smartshot.model;
 
 import android.content.Intent;
 

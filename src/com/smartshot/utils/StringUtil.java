@@ -1,4 +1,4 @@
-package com.gionee.smartshot.utils;
+package com.smartshot.utils;
 
 public class StringUtil {
     

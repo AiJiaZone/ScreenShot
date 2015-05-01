@@ -1,4 +1,4 @@
-package com.gionee.smartshot.ui;
+package com.smartshot.ui;
 
 import android.app.Application;
 import android.content.Context;

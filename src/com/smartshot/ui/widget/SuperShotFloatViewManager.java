@@ -1,11 +1,11 @@
-package com.gionee.smartshot.ui.widget;
+package com.smartshot.ui.widget;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.ui.SuperShotFloatView;
-import com.gionee.smartshot.utils.SmartShotConstant;
+import com.smartshot.ui.SuperShotFloatView;
+import com.smartshot.utils.SmartShotConstant;
 
 import android.content.Context;
 import android.content.Intent;

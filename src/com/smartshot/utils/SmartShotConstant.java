@@ -1,4 +1,4 @@
-package com.gionee.smartshot.utils;
+package com.smartshot.utils;
 
 public class SmartShotConstant {
     public static final String ACTION_LONGSCREEN_SHOT_SERVICE = "gionee.action.ACTION_START_LONGSCREEN_SHOT";

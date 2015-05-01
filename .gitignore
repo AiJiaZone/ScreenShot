@@ -1,0 +1,14 @@
+.svn
+.svn/
+.svn/wc.db
+.classpath
+.project
+bin/
+gen/
+project.property
+code/src/com/android/systemui/EventLogTags.java
+code/.settings/
+code/project.properties
+code/res/drawable/circle.xml
+code/src/com/gionee/featureoption/
+

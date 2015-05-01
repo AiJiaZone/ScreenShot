@@ -1,7 +1,7 @@
-package com.gionee.smartshot.ui;
+package com.smartshot.ui;
 
-import com.gionee.smartshot.utils.SmartShotConstant;
-import com.gionee.smartshot.utils.SmartShotUtil;
+import com.smartshot.utils.SmartShotConstant;
+import com.smartshot.utils.SmartShotUtil;
 
 import android.content.Context;
 import android.content.res.Configuration;

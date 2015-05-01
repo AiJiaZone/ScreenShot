@@ -1,4 +1,4 @@
-package com.gionee.smartshot.preference;
+package com.smartshot.preference;
 
 import android.content.Context;
 import android.content.SharedPreferences;

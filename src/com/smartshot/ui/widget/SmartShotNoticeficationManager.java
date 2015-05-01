@@ -1,7 +1,8 @@
-package com.gionee.smartshot.ui.widget;
+package com.smartshot.ui.widget;
 
-import com.gionee.smartshot.model.NoticeParam;
-import com.gionee.smartshot.utils.StringUtil;
+import com.smartshot.model.NoticeParam;
+import com.smartshot.utils.StringUtil;
+
 import android.app.Notification;
 import android.app.NotificationManager;
 import android.app.PendingIntent;

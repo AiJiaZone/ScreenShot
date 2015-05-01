@@ -1,8 +1,8 @@
-package com.gionee.smartshot.ui;
+package com.smartshot.ui;
 
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.model.NoticeParam;
-import com.gionee.smartshot.utils.SmartShotConstant;
+import com.smartshot.model.NoticeParam;
+import com.smartshot.utils.SmartShotConstant;
 
 import android.app.Notification;
 import android.app.Service;

@@ -1,12 +1,14 @@
-package com.gionee.smartshot.ui.listener;
+package com.smartshot.ui.listener;
 
 
 import java.io.File;
+
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.ui.NoSpaceActivity;
-import com.gionee.smartshot.ui.widget.SuperShotFloatViewManager;
-import com.gionee.smartshot.ui.widget.SuperShotMenuManager;
-import com.gionee.smartshot.utils.SmartShotConstant;
+import com.smartshot.ui.NoSpaceActivity;
+import com.smartshot.ui.widget.SuperShotFloatViewManager;
+import com.smartshot.ui.widget.SuperShotMenuManager;
+import com.smartshot.utils.SmartShotConstant;
+
 import android.content.Context;
 import android.content.Intent;
 import android.os.Environment;

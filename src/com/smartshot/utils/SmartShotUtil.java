@@ -1,4 +1,4 @@
-package com.gionee.smartshot.utils;
+package com.smartshot.utils;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -7,9 +7,11 @@ import java.sql.Date;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Iterator;
+
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.model.NoticeParam;
-import com.gionee.smartshot.ui.widget.SmartShotNoticeficationManager;
+import com.smartshot.model.NoticeParam;
+import com.smartshot.ui.widget.SmartShotNoticeficationManager;
+
 import android.app.ActivityManager;
 import android.content.Context;
 import android.content.Intent;

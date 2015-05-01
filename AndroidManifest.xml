@@ -16,13 +16,13 @@
         android:theme="@style/AppTheme"
         android:label="@string/app_name"
         android:icon="@drawable/settings_apps_smartshot"
-        android:name=".ui.SmartShotApp"
+        android:name="com.smartshot.ui.SmartShotApp"
         android:allowBackup="true"
         android:hardwareAccelerated="true">
         <activity
             android:theme="@style/translucent"
             android:label="@string/app_name"
-            android:name="com.gionee.smartshot.ui.MainActivity"
+            android:name="com.smartshot.ui.MainActivity"
             android:taskAffinity="smart.shot.main.task"
             android:allowTaskReparenting="true" >
             <intent-filter>
@@ -30,8 +30,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity  android:name=".ui.NoSpaceActivity" android:excludeFromRecents="true" />
-        <service android:name=".ui.SuperShotFloatViewService">
+        <activity  android:name="com.smartshot.ui.NoSpaceActivity" android:excludeFromRecents="true" />
+        <service android:name="com.smartshot.ui.SuperShotFloatViewService">
             <intent-filter android:priority="1000">
                 <action android:name="gionee.action.ACTION_START_LONGSCREEN_SHOT" />
             </intent-filter>

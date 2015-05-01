@@ -1,4 +1,4 @@
-package com.gionee.smartshot.ui;
+package com.smartshot.ui;
 
 import java.lang.ref.WeakReference;
 import java.lang.reflect.InvocationTargetException;
@@ -6,13 +6,15 @@ import java.lang.reflect.Method;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.TreeSet;
+
 import com.gionee.smartshot.R;
-import com.gionee.smartshot.model.NoticeParam;
-import com.gionee.smartshot.ui.widget.SmartShotNoticeficationManager;
-import com.gionee.smartshot.ui.widget.SuperShotFloatViewManager;
-import com.gionee.smartshot.utils.LogUtil;
-import com.gionee.smartshot.utils.SmartShotConstant;
-import com.gionee.smartshot.utils.SmartShotUtil;
+import com.smartshot.model.NoticeParam;
+import com.smartshot.ui.widget.SmartShotNoticeficationManager;
+import com.smartshot.ui.widget.SuperShotFloatViewManager;
+import com.smartshot.utils.LogUtil;
+import com.smartshot.utils.SmartShotConstant;
+import com.smartshot.utils.SmartShotUtil;
+
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
