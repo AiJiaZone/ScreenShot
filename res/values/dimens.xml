@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="popu_window_height">120.0dip</dimen>
+    <dimen name="play_vedia_barlayout_magin_bottom">8.0dip</dimen>
+    <dimen name="play_vedia_barlayout_btn_pading">4.0dip</dimen>
+    <dimen name="play_vedia_barlayout_pading_bottom">3.0dip</dimen>
+    <dimen name="play_vedia_barlayout_pading_top">9.0dip</dimen>
+    <dimen name="play_vedia_barlayout_title_maginTop">13.0dip</dimen>
+    <dimen name="play_vedia_barlayout_height">50.0dip</dimen>
+    <dimen name="play_vedia_layout_min_height">360.0dip</dimen>
+    <dimen name="gionee_dialog_title_layout_height">52.0dip</dimen>
+    <dimen name="menu_float_window_layout_width">267.0dip</dimen>
+    <dimen name="menu_float_window_layout_height">74.0dip</dimen>
+    <dimen name="float_btn_pading_top">2.0dip</dimen>
+    <dimen name="icon_float_scroll_btn_pading_top">38.0dip</dimen>
+    <dimen name="icon_float_window_btn_pading_top">115.0dip</dimen>
+    <dimen name="status_bar_layout_height">130.0px</dimen>
+    <dimen name="status_bar_icon_pading_top">30.0dip</dimen>
+    <dimen name="status_bar_icon_width">64.0dip</dimen>
+    <dimen name="status_bar_title_pading_top">12.0dip</dimen>
+    <dimen name="status_bar_title_pading_left">8.0dip</dimen>
+    <dimen name="status_bar_content_magin_top">2.0dip</dimen>
+    <dimen name="scroll_shot_guide_btn_magin_top">3.0dip</dimen>
+    <dimen name="scroll_shot_guide_idot_magin_top">47.0dip</dimen>
+    <dimen name="scroll_shot_guide_idot_pading_right">9.0dip</dimen>
+    <dimen name="window_shot_btn_magin_bottom">130.0dip</dimen>
+    <dimen name="guide_view_know_btn_width">148.0dip</dimen>
+    <dimen name="main_float_window_bg_width">186.0dip</dimen>
+    <dimen name="main_float_window_btn_left_width">95.0dip</dimen>
+    <dimen name="scroll_shot_ll_padding">4.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_0024">false</item>
+
+</resources>

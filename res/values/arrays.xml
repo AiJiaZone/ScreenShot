@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="record_screen_size_array">
+        <item>320x480</item>
+        <item>480x800</item>
+        <item>540x960</item>
+        <item>720x1280</item>
+    </string-array>
+</resources>

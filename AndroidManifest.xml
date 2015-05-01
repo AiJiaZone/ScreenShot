@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gionee.smartshot"
+    coreApp="true"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+    
+    <application
+        android:theme="@style/AppTheme"
+        android:label="@string/app_name"
+        android:icon="@drawable/settings_apps_smartshot"
+        android:name=".ui.SmartShotApp"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true">
+        <activity
+            android:theme="@style/translucent"
+            android:label="@string/app_name"
+            android:name="com.gionee.smartshot.ui.MainActivity"
+            android:taskAffinity="smart.shot.main.task"
+            android:allowTaskReparenting="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity  android:name=".ui.NoSpaceActivity" android:excludeFromRecents="true" />
+        <service android:name=".ui.SuperShotFloatViewService">
+            <intent-filter android:priority="1000">
+                <action android:name="gionee.action.ACTION_START_LONGSCREEN_SHOT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

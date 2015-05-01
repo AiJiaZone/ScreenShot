@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/menu_float_window_bg" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="@dimen/main_float_window_btn_left_width" android:layout_height="wrap_content">
+            <TextView android:textColor="@drawable/selector_main_win_btn_color" android:id="@id/scroll_shot_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/scroll_shot" android:drawableTop="@drawable/selector_scroll_shot_tv" android:drawablePadding="@dimen/float_btn_pading_top" style="@style/AppBaseTheme" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="@dimen/main_float_window_btn_left_width" android:layout_height="wrap_content">
+            <TextView android:id="@id/btn_delete" android:background="@drawable/selector_delete_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AppBaseTheme" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

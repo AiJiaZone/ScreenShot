@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff466c90</color>
+    <color name="gray">#ff343434</color>
+    <color name="gray_light">#ff818181</color>
+    <color name="gray_disable">#ff9c999c</color>
+    <color name="green">#ff84ac00</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#ffff4444</color>
+    <color name="float_menu_text_color">#ffcdcdcd</color>
+    <color name="pressed_text_color">#ff9c999c</color>
+    <color name="pressed_text_color_scroll_shot">#88ffffff</color>
+    <color name="status_bar_content_color">#ffa7a8a8</color>
+    <color name="button_disable_color">#ffa3a3a3</color>
+    <color name="main_float_win_btn_color">#ff1e8fd9</color>
+</resources>
